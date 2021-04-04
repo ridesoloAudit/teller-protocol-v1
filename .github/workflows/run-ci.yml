@@ -1,7 +1,5 @@
 name: Compile & Run Smart Contract Unit Tests
 
-on: [pull_request]
-
 jobs:
   test:
     name: Build Project
