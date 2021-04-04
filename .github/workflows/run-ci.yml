@@ -33,3 +33,6 @@ jobs:
       - name: Executing Tests
         run: |
           yarn test
+      - name: Executing Coverage
+        run: |
+          yarn coverage
