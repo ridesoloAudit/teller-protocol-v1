@@ -32,7 +32,7 @@ jobs:
           yarn compile
       - name: Executing Tests
         run: |
-          yarn test
+          yarn hardhat test
       - name: Executing Coverage
         run: |
           yarn coverage
