@@ -1,4 +1,4 @@
-# Teller V1 Protocol
+# Teller V1 Protocoll
 
 Teller V1 is a composition of smart contracts, which create the protocol. These contracts enable digital asset holders on the Ethereum blockchain to engage in decentralized, lending and borrowing activities, with down to zero collateral.
 
